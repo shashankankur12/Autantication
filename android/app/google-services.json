@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "830953867930",
+    "project_id": "autantication",
+    "storage_bucket": "autantication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830953867930:android:e0dfc0897e2cafadd22d23",
+        "android_client_info": {
+          "package_name": "com.autantication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830953867930-gai87md8s5hh8uh9rmgf17nc2s1oko8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autantication",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "830953867930-v0j0uhbc65cf46s290h7og8cgvjed6dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcVI2DuH19d3R51Zk1mubMl5eoVBufJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830953867930-v0j0uhbc65cf46s290h7og8cgvjed6dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
